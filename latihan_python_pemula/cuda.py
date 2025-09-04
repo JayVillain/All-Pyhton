@@ -6,4 +6,4 @@ try:
     hasil = angka1 - angka2
     print("hasil", hasil)
 except:
-    print("ini hasilnya nih")
+    print("ini hasilnya nih : ")
