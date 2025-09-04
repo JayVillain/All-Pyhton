@@ -1,1 +1,2 @@
-nama = input
+nama = input()
+print("nama saya adalah"+ nama)
