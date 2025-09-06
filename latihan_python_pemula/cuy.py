@@ -1,3 +1,2 @@
 nama = "kuda"
-
-print (nama)
+print ("ini nama saya adalah", nama) 
