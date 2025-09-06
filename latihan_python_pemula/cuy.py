@@ -1,2 +1,3 @@
-nama = "kuda"
-print ("ini nama saya adalah", nama) 
+nama = "alexandra"
+
+print("haloo perkenalkan saya adalah", nama)
