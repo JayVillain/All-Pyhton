@@ -1,2 +1,2 @@
-nama = "kuda terbang"
+nama = "kuda ini jitu"
 print("nama saya adalah"+ nama)
