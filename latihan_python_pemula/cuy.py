@@ -1,3 +1,3 @@
 nama = "kuda"
 
-print (kuda)
+print (nama)
