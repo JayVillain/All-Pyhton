@@ -5,4 +5,4 @@ try:
     hasil = angka1 + angka2
     print("hasi;", hasil)
 except:
-    print("ini hasilnya bos")
+    print("ini isinya yang bener bos bos")
