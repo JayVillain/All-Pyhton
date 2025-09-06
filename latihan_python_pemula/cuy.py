@@ -6,4 +6,3 @@ try:
     print("hasi;", hasil)
 except:
     print("ini isinya yang bener bos bos")
-print("iki hasile bos ")
